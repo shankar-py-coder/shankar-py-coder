@@ -28,7 +28,7 @@
 
 ### 🤝 Connect With Me
 - GitHub: https://github.com/shankar-py-coder
-- LinkedIn: [Add your LinkedIn profile URL here]
+- LinkedIn: https://www.linkedin.com/in/shankar-sb-b9279037a/
 
 ---
 ⭐ Thanks for visiting my profile!
